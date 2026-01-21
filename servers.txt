@@ -1,1 +1,1 @@
-chatroom{url(wss://coat-continuing-males-roberts.trycloudflare.com)}
+chatroom{url(coat-continuing-males-roberts.trycloudflare.com)}
