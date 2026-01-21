@@ -1,1 +1,1 @@
-chatroom{url(wss://engineering-secretary-advantages-periodically.trycloudflare.com)}
+chatroom{url(wss://engineering-secretary-advantages-periodically.trycloudflare.com:3000)}
